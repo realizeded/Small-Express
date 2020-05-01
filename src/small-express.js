@@ -40,7 +40,7 @@ class SmallExpress {
           });
     return stack;
    }
-   handle(stack,req,res) {
+    handle(stack,req,res) {
         function next(req,res,next) {
             let func = stack.shift();
             if(func) {
