@@ -1,6 +1,6 @@
 # 模仿express实现的Small-Express
 ## 介绍
-学习express中间件机制时 制作  
+学习express中间件机制时  dev
 
 ## 中间件机制
 * 1 通过get post use接收中间件
